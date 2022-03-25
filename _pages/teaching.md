@@ -23,6 +23,3 @@ nav: true
 <b>A gentle introduction to Natural Language Understanding from Text: from Phenomena Explanation to Event Extraction and Event Graph Embedding</b></br>
 <a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/446610">Data Mining, Text Mining and Big Data Analytics</a> M.S. course, Artificial Intelligence, University of Bologna, December 10, 2021
 
-### co-supervision of bachelor students
-
-### co-supervision of master students
