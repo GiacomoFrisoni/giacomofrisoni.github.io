@@ -25,6 +25,8 @@ My contributions cover a wide variety of real-world tasks, from open-domain ques
 We live in a unique time for computer science and artificial intelligence. Nowadays there has been a profound evolution of the NLP sector which led to the achievement of goals deemed insurmountable until recently.
 My objective is to concretize the much-desired birth of a new generation of artificial understanding, integrating learning, knowledge representation, reasoning, and explanation.
 
+<a href="https://github.com/giacomofrisoni/curriculum-vitae/releases/latest/download/cv_giacomo_frisoni.pdf">Curriculum Vitae</a>
+
 <blockquote>
     While technology is important, it’s what we do with it that truly matters.
 	—Muhammad Yunus, Nobel Peace Prize Winner
