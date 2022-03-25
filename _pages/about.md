@@ -24,3 +24,16 @@ My contributions cover a wide variety of real-world tasks, from open-domain ques
 
 We live in a unique time for computer science and artificial intelligence. Nowadays there has been a profound evolution of the NLP sector which led to the achievement of goals deemed insurmountable until recently.
 My objective is to concretize the much-desired birth of a new generation of artificial understanding, integrating learning, knowledge representation, reasoning, and explanation.
+
+<blockquote>
+    While technology is important, it’s what we do with it that truly matters.
+	—Muhammad Yunus, Nobel Peace Prize Winner
+</blockquote>
+<blockquote>
+    Language is at the heart of human intelligence. It therefore is and must be at the heart of our efforts to build artificial intelligence. No sophisticated AI can exist without mastery of language.
+	—Rob Towes, Language Is The Next Great Frontier In AI, Forbes
+</blockquote>
+<blockquote>
+    Before, if an AI system could translate a text, it would have been deemed as having understood the text, or if the system could sustain a conversation or describe the scene on an image. Now, none of these count as proper understanding.
+	—Geoff Hinton, Turing Award 2018
+</blockquote>
