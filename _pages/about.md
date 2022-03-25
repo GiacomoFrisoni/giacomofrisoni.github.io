@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a>.
+subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a> | Natural Language Understanding, Neuro-Symbolic Learning.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Student in Computer Science and Engineering at the University of Bologna. I investigate how to combine language models and structured knowledge for Natural Language Processing and Understanding (NLP/NLU) in Health domains.
+I'm a PhD Student in <b>Computer Science and Engineering</b> at the University of Bologna. I investigate how to combine language models and structured knowledge for Natural Language Processing and Understanding (NLP/NLU) in Health domains.
 
 I work on interpretable text mining, knowledge graph learning, semantic parsing, event extraction, graph representation and similarity learning, graph verbalization, knowledge injection, retrieval-enhanced language models, and joint text-graph reasoning via graph neural networks.
 My contributions cover a wide variety of real-world tasks, from open-domain question answering to single- and multi-document summarization.
