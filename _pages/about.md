@@ -22,7 +22,7 @@ I'm a PhD Student in <b>Computer Science and Engineering</b> at the University o
 I work on interpretable text mining, knowledge graph learning, semantic parsing, event extraction, graph representation and similarity learning, graph verbalization, knowledge injection, retrieval-enhanced language models, and joint text-graph reasoning via graph neural networks.
 My contributions cover a wide variety of real-world tasks, from open-domain question answering to single- and multi-document summarization.
 
-We live in a unique time for computer science and artificial intelligence. Nowadays there has been a profound evolution of the NLP sector which led to the achievement of goals deemed insurmountable until recently.
+We live in a unique time for computer science and artificial intelligence. Nowadays, a profound evolution of the NLP sector has led to the achievement of goals deemed insurmountable until recently.
 My objective is to concretize the much-desired birth of a new generation of artificial understanding, integrating learning, knowledge representation, reasoning, and explanation.
 
 <a href="https://github.com/giacomofrisoni/curriculum-vitae/releases/latest/download/cv_giacomo_frisoni.pdf">Curriculum Vitae</a>
