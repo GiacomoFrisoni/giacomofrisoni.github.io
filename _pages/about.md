@@ -2,28 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a> | Natural Language Understanding, Neuro-Symbolic Learning.
+subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a> | Natural Language Understanding, Neuro-Symbolic AI.
 
 profile:
   align: right
   image: giacomo_frisoni.png
   address: >
-    <p>Via dell’Università, 50</p>
-    <p>47522 Cesena (FC)</p>
-    <p>Italy</p>
+    <p>giacomo.frisoni[at]unibo.it</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Student in <b>Computer Science and Engineering</b> at the University of Bologna. I investigate how to combine language models and structured knowledge for Natural Language Processing and Understanding (NLP/NLU) in Health domains.
+I'm a third-year PhD Student at the Department of Computer Science and Engineering (DISI), University of Bologna, Italy. 
 
-I work on interpretable text mining, knowledge graph learning, semantic parsing, event extraction, graph representation and similarity learning, graph verbalization, knowledge injection, retrieval-enhanced language models, and joint text-graph reasoning via graph neural networks.
-My contributions cover a wide variety of real-world tasks, from open-domain question answering to single- and multi-document summarization.
+🎯 I investigate how to <b>combine language models and structured knowledge</b> for <b>Natural Language Processing and Understanding (NLP/NLU)</b>. My research interests comprise semantic parsing, graph representation and similarity learning, knowledge injection, retrieval-enhanced language modeling, and joint text-graph reasoning. I presented several original papers to international journals and peer-reviewed conferences—including top-tier venues like EMNLP, AAAI, and COLING, winning two Best Paper Awards. My contributions cover many real-world tasks, from open-domain question answering to document summarization.
 
-We live in a unique time for computer science and artificial intelligence. Nowadays, a profound evolution of the NLP sector has led to the achievement of goals deemed insurmountable until recently.
-My objective is to concretize the much-desired birth of a new generation of artificial understanding, integrating learning, knowledge representation, reasoning, and explanation.
+🧬 In September 2016, I discovered to suffer from a rare disease called "Esophageal Achalasia." Since then, I have dedicated myself to merging my skills and patient-centered experience to build innovative data analysis solutions for research advancement in Health domains.
+
+In 2020, I was among the worldwide selected program attendees at the Cornell, Maryland, Max Planck Pre-doctoral Research School. In the same year, I received the con.Scienze Award for writing one of the ten best Italian scientific research works during the master's thesis. In September—December 2022, I was a visiting postgraduate researcher at the University of Glasgow, School of Computing Science, Scotland. Since 2022, I have been an HuggingFace and Streamlit Student Ambassador.
+
+I belong to a research group led by Prof. Gianluca Moro. Together with my colleagues, we design and develop state-of-the-art NLP solutions pursuing a vision focused on concretizing the much-desired birth of a new generation of artificial understanding, learning, explicit knowledge representation, and reasoning.
 
 <a href="https://github.com/giacomofrisoni/curriculum-vitae/releases/latest/download/cv_giacomo_frisoni.pdf">Curriculum Vitae</a>
 
@@ -36,6 +36,6 @@ My objective is to concretize the much-desired birth of a new generation of arti
 	—Rob Towes, Language Is The Next Great Frontier In AI, Forbes
 </blockquote>
 <blockquote>
-    Before, if an AI system could translate a text, it would have been deemed as having understood the text, or if the system could sustain a conversation or describe the scene on an image. Now, none of these count as proper understanding.
-	—Geoff Hinton, Turing Award 2018
+    The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
+	—Marcel Proust
 </blockquote>
