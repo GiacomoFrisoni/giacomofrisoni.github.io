@@ -27,8 +27,6 @@ In 2020, I was among the worldwide selected program attendees at the Cornell, Ma
 
 I belong to a research group led by <b>Prof. Gianluca Moro</b>. Together with my colleagues, we design and develop state-of-the-art NLP solutions pursuing a vision focused on concretizing the much-desired birth of a new generation of artificial understanding, learning, explicit knowledge representation, and reasoning.
 
-<a href="https://github.com/giacomofrisoni/curriculum-vitae/releases/latest/download/cv_giacomo_frisoni.pdf">Curriculum Vitae</a>
-
 <blockquote>
     While technology is important, it’s what we do with it that truly matters.
 	—Muhammad Yunus, Nobel Peace Prize Winner
