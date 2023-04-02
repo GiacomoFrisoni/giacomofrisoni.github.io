@@ -15,10 +15,10 @@ I co-supervised 20+ B.S. and M.S. undergraduates, reaching a scientific publicat
 <hr>
 
 <b>Graph Neural Networks and Graph Representation Learning for Natural Language Understanding</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/412644">Text Mining</a> M.S. course, Computer Science and Engineering, University of Bologna, December 15, 2022
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/412644">Text Mining</a>, M.S. course, Computer Science and Engineering, University of Bologna, December 15, 2022
 
 <b>Graph Neural Networks and Graph Representation Learning</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/446610">Data Mining, Text Mining and Big Data Analytics</a> M.S. course, Artificial Intelligence, University of Bologna, December 14, 2022
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/446610">Data Mining, Text Mining and Big Data Analytics</a>, M.S. course, Artificial Intelligence, University of Bologna, December 14, 2022
 
 <b>Retrieval-Enhanced Language Models and Semantic-Driven Summarization for Biomedical Domains</b><br>
 TerrierTeam Presentation, University of Glasgow, School of Computing Science, October 10, 2022
@@ -27,25 +27,25 @@ TerrierTeam Presentation, University of Glasgow, School of Computing Science, Oc
 Seminar organized and funded by the Bologna Business School (BBS) as part of a refresher course for companies, July 06--11, 2022
 
 <b>Neuro-Symbolic AI for Natural Language Understanding from Text in Health Domains </b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/385100">Data Intensive Applications</a> B.S. course, Computer Science and Engineering, University of Bologna, April 27, 2022
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/385100">Data Intensive Applications</a>, B.S. course, Computer Science and Engineering, University of Bologna, April 27, 2022
 
 <b>Neuro-Symbolic AI for Natural Language Understanding in Health Domains</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/412687">Semantic Web</a> M.S. course, Computer Science and Engineering, University of Bologna, April 4, 2022
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/412687">Semantic Web</a>, M.S. course, Computer Science and Engineering, University of Bologna, April 4, 2022
 
 <b>A Gentle Introduction to Natural Language Understanding from Text: from Phenomena Explanation to Event Extraction and Event Graph Embedding</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/446610">Data Mining, Text Mining and Big Data Analytics</a> M.S. course, Artificial Intelligence, University of Bologna, December 10, 2021
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/446610">Data Mining, Text Mining and Big Data Analytics</a>, M.S. course, Artificial Intelligence, University of Bologna, December 10, 2021
 
 <b>A Look at Knowledge Graphs, Ontologies and Semantic Similarity</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412687">Semantic Web</a> M.S. course, Computer Science and Engineering, University of Bologna, March 22, 2021
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412687">Semantic Web</a>, M.S. course, Computer Science and Engineering, University of Bologna, March 22, 2021
 
 <b>POIROT: Phenomena Explanation from Text</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412644">Text Mining</a> M.S. course, Computer Science and Engineering, University of Bologna, December 2, 2020
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412644">Text Mining</a>, M.S. course, Computer Science and Engineering, University of Bologna, December 2, 2020
 
 <b>Knowledge Graph Learning from Text</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2019/412687">Semantic Web</a> M.S. course, Computer Science and Engineering, University of Bologna, March 26, 2020
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2019/412687">Semantic Web</a>, M.S. course, Computer Science and Engineering, University of Bologna, March 26, 2020
 
 <b>Introduction to Azure Cosmos DB</b><br>
-<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2018/412604">Web Services and Applications</a> M.S. course, Computer Science and Engineering, University of Bologna, March, 2018
+<a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2018/412604">Web Services and Applications</a>, M.S. course, Computer Science and Engineering, University of Bologna, March, 2018
 
 <br>
 
