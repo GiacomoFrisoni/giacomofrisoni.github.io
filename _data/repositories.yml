@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - disi-unibo-nlp
+  - giacomofrisoni
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - disi-unibo-nlp/nlg-metricverse
+  - disi-unibo-nlp/cogito-ergo-summ
