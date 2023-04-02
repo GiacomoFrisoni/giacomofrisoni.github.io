@@ -9,6 +9,7 @@ profile:
   image: giacomo_frisoni.png
   address: >
     <p>giacomo.frisoni[at]unibo.it</p>
+    <p><blockquote>Become Who You Are</blockquote><p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
