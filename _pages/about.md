@@ -7,6 +7,7 @@ subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en
 profile:
   align: right
   image: giacomo_frisoni.png
+  image_circular: false # crops the image to make it circular
   address: >
     <p>giacomo.frisoni[at]unibo.it</p>
     <p>"Become Who You Are"<p>

@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching activities and related material.
 nav: true
+nav_order: 5
 ---
 
 I co-supervised 20+ B.S. and M.S. undergraduates, reaching a scientific publication from the thesis work in several cases.
