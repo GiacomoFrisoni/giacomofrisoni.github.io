@@ -82,8 +82,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: an-nlp-blog # your blog must have a name for it to show up in the nav bar
-blog_description: Stay up to date on any research news 
+blog_name: the-nlp-wild-west # your blog must have a name for it to show up in the nav bar
+blog_description: Stay up to date on my research path 
 permalink: /blog/:year/:title/
 
 # Pagination
