@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a> | Natural Language Understanding, Neuro-Symbolic AI.
+subtitle: PhD Student @ <a href='https://www.unibo.it/sitoweb/giacomo.frisoni/en/'>University of Bologna</a> | Natural Language Understanding, Neuro-Symbolic AI
 
 profile:
   align: right
@@ -23,7 +23,7 @@ I'm a third-year PhD Student at the Department of Computer Science and Engineeri
 
 In 2020, I was among the worldwide selected program attendees at the Cornell, Maryland, Max Planck Pre-doctoral Research School. In the same year, I received the con.Scienze Award for writing one of the ten best Italian scientific research works during the master's thesis. In September—December 2022, I was a visiting postgraduate researcher at the University of Glasgow, School of Computing Science, Scotland. Since 2022, I have been an HuggingFace and Streamlit Student Ambassador.
 
-I belong to a research group led by Prof. Gianluca Moro. Together with my colleagues, we design and develop state-of-the-art NLP solutions pursuing a vision focused on concretizing the much-desired birth of a new generation of artificial understanding, learning, explicit knowledge representation, and reasoning.
+I belong to a research group led by <b>Prof. Gianluca Moro</b>. Together with my colleagues, we design and develop state-of-the-art NLP solutions pursuing a vision focused on concretizing the much-desired birth of a new generation of artificial understanding, learning, explicit knowledge representation, and reasoning.
 
 <a href="https://github.com/giacomofrisoni/curriculum-vitae/releases/latest/download/cv_giacomo_frisoni.pdf">Curriculum Vitae</a>
 
