@@ -39,3 +39,7 @@ I belong to a research group led by <b>Prof. Gianluca Moro</b>. Together with my
     The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
 	—Marcel Proust
 </blockquote>
+<blockquote>
+    The joy of discovery is certainly the liveliest that the mind of man can ever feel.
+	—Claude Bernard
+</blockquote>
