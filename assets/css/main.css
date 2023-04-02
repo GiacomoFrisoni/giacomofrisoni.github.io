@@ -84,7 +84,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 .profile img {
@@ -337,7 +337,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -348,6 +348,22 @@ blockquote {
 }
 .social .contact-note {
   font-size: 0.8rem;
+}
+
+.cv {
+  margin-bottom: 40px;
+}
+.cv .card {
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+}
+.cv .card .list-group-item {
+  background-color: inherit;
+  border-color: var(--global-divider-color);
+}
+.cv .card .list-group-item .badge {
+  color: var(--global-card-bg-color) !important;
+  background-color: var(--global-theme-color) !important;
 }
 
 footer.fixed-bottom {
