@@ -10,6 +10,7 @@ I followed 20+ B.S. and M.S. undergraduates, reaching a scientific publication f
 
 
 ### seminars
+======
 
 <b>Graph Neural Networks and Graph Representation Learning for Natural Language Understanding</b><br>
 <a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/412644">Text Mining</a> M.S. course, Computer Science and Engineering, University of Bologna, December 15, 2022
@@ -46,6 +47,7 @@ Seminar organized and funded by the Bologna Business School (BBS) as part of a r
 
 
 ### co-supervision of bachelor students
+======
 
 <b>Generation of Factual Summaries via Semantic Parsing</b><br>
 Candidate: Luca Grandi, Supervisor: Gianluca Moro, Other Co-Supervisor: Luca Ragazzi. University of Bologna, Computer Science and Engineering. March, 2023.
@@ -85,6 +87,7 @@ Candidate: Alessandro Lombardini, Supervisor: Gianluca Moro. University of Bolog
 
 
 ### co-supervision of master students
+======
 
 <b>Subgraph Retrieval for Biomedical Open-Domain Question Answering: Unlocking the Knowledge Graph Embedding Power</b><br>
 Candidate: Faisal Ramzan, Supervisor: Claudio Sartori, Other Co-Supervisor: Gianluca Moro. University of Bologna, Artificial Intelligence. March, 2023.
