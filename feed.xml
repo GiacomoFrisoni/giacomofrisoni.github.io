@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://giacomofrisoni.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://giacomofrisoni.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-02T20:46:25+00:00</updated><id>https://giacomofrisoni.github.io/feed.xml</id><title type="html">blank</title><subtitle>Giacomo Frisoni website. Paving the way to a new generation of neuro-symbolic AI for natural language understanding.
+</subtitle><entry><title type="html">EMNLP 2022</title><link href="https://giacomofrisoni.github.io/blog/2022/emnlp/" rel="alternate" type="text/html" title="EMNLP 2022" /><published>2022-03-25T21:01:00+00:00</published><updated>2022-03-25T21:01:00+00:00</updated><id>https://giacomofrisoni.github.io/blog/2022/emnlp</id><content type="html" xml:base="https://giacomofrisoni.github.io/blog/2022/emnlp/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_1.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_2-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_2-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_2-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_2.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_3-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_3-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_3-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_3.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_4-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_4-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_4-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_4.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_5-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_5-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_5-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_5.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_6-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_6-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_6-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_6.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_7-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_7-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_7-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_7.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_8-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_8-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_8-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_8.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_9-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_9-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_9-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_9.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_10-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_10-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_10-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_10.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_11-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_11-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_11-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_11.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_12-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_12-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_12-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_12.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_13-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_13-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_13-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_13.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_14-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_14-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_14-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_14.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_15-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_15-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_15-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_15.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_16-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_16-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_16-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_16.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_16b-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_16b-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_16b-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_16b.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_17-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_17-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_17-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_17.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_18-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_18-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_18-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_18.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_19-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_19-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_19-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_19.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_20-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_20-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_20-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_20.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_21-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_21-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_21-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_21.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_22-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_22-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_22-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_22.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_23-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_23-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_23-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_23.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_24-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_24-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_24-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_24.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_25-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_25-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_25-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_25.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_26-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_26-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_26-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_26.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_27-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_27-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_27-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_27.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_28-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_28-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_28-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_28.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_29-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_29-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_29-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_29.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_30-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_30-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_30-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_30.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_31-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_31-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_31-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_31.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_32-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_32-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_32-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_32.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_33-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_33-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_33-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_33.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_34-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_34-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_34-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_34.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_35-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_35-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_35-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_35.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_36-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_36-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_36-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_36.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_37-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_37-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_37-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_37.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_38-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_38-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_38-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_38.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_39-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_39-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_39-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_39.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_40-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_40-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_40-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_40.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/emnlp22/emnlp_41-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/emnlp22/emnlp_41-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/emnlp22/emnlp_41-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/emnlp22/emnlp_41.jpg" title="emnlp image" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    My first in-person top-tier conference attendance. What an amazing experience...
+</div>]]></content><author><name></name></author><category term="paper-presentation" /><category term="emnlp" /><summary type="html"><![CDATA[BioReader paper presentation]]></summary></entry><entry><title type="html">CLS welcome</title><link href="https://giacomofrisoni.github.io/blog/2022/welcome/" rel="alternate" type="text/html" title="CLS welcome" /><published>2022-03-25T16:00:00+00:00</published><updated>2022-03-25T16:00:00+00:00</updated><id>https://giacomofrisoni.github.io/blog/2022/welcome</id><content type="html" xml:base="https://giacomofrisoni.github.io/blog/2022/welcome/"><![CDATA[<p>Welcome to my personal website.<br />
+Starting today, I will be sharing news and discussions revolving around my NLP research in this section.
+Stay tuned!</p>]]></content><author><name></name></author><category term="info" /><summary type="html"><![CDATA[Looking forward to share]]></summary></entry></feed>
